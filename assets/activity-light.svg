@@ -19,7 +19,7 @@
   <text x="476" y="34" class="sub" text-anchor="end">all time</text>
   
     <g class="fade" style="animation-delay:0ms">
-      <text x="24" y="78" class="value">1,706</text>
+      <text x="24" y="78" class="value">1,724</text>
       <text x="24" y="98" class="label">total contributions</text>
     </g>
   
@@ -34,7 +34,7 @@
     </g>
   
     <g class="fade" style="animation-delay:360ms">
-      <text x="392" y="78" class="value">21</text>
+      <text x="392" y="78" class="value">25</text>
       <text x="392" y="98" class="label">public repos</text>
     </g>
   <path d="M24.0,160.7 L32.9,141.5 L41.7,153.0 L50.6,141.5 L59.5,153.0 L68.3,149.2 L77.2,149.2 L86.0,153.0 L94.9,145.3 L103.8,149.2 L112.6,145.3 L121.5,149.2 L130.4,153.0 L139.2,149.2 L148.1,141.5 L156.9,145.3 L165.8,145.3 L174.7,153.0 L183.5,141.5 L192.4,153.0 L201.3,153.0 L210.1,145.3 L219.0,141.5 L227.8,141.5 L236.7,153.0 L245.6,149.2 L254.4,141.5 L263.3,160.7 L272.2,145.3 L281.0,149.2 L289.9,145.3 L298.7,141.5 L307.6,141.5 L316.5,149.2 L325.3,145.3 L334.2,141.5 L343.1,145.3 L351.9,137.7 L360.8,141.5 L369.6,145.3 L378.5,149.2 L387.4,156.8 L396.2,153.0 L405.1,145.3 L414.0,149.2 L422.8,145.3 L431.7,137.7 L440.5,130.0 L449.4,145.3 L458.3,141.5 L467.1,141.5 L476.0,156.8 L476,176 L24,176 Z" fill="url(#a)" class="fade" style="animation-delay:900ms"/>
