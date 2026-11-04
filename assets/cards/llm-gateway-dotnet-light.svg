@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150" role="img" aria-label="llm-gateway-dotnet">
+  <title>llm-gateway-dotnet</title>
+  <style>
+    .name{font:600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#7c3aed}
+    .desc{font:400 12.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#59636e}
+    .meta{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#59636e}
+    .chip{font:500 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#1f2328}
+  </style>
+  <rect x=".5" y=".5" width="399" height="149" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <svg x="20" y="17" width="16" height="16" viewBox="0 0 16 16"><path fill="#59636e" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+  <text x="44" y="30" class="name">llm-gateway-dotnet</text>
+  <circle cx="356.8" cy="25.5" r="5" fill="#7355dd"/><text x="380" y="30" class="meta" text-anchor="end">C#</text>
+  <text x="20" y="58" class="desc">OpenAI-compatible LLM gateway in ASP.NET Core 8:</text><text x="20" y="76" class="desc">multi-provider routing with fallback, per-key token rate</text><text x="20" y="94" class="desc">limits, exact and semantic caching, PII redaction…</text>
+  <rect x="20" y="114" width="54.400000000000006" height="20" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="47.2" y="128" class="chip" text-anchor="middle">csharp</text><rect x="80.4" y="114" width="54.400000000000006" height="20" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="107.60000000000001" y="128" class="chip" text-anchor="middle">dotnet</text><rect x="140.8" y="114" width="35.2" height="20" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="158.4" y="128" class="chip" text-anchor="middle">llm</text><rect x="182" y="114" width="86.4" height="20" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="225.2" y="128" class="chip" text-anchor="middle">llm-gateway</text>
+</svg>
