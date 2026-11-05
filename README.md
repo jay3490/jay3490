@@ -8,6 +8,7 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/jayahir-fullstackdeveloper/"><img src="assets/badges/linkedin.svg" alt="LinkedIn"></a>
+<a href="https://apps.130-210-57-92.sslip.io/"><img src="assets/badges/live-demos.svg" alt="Live demos"></a>
 <a href="https://jay-ahir.pages.dev/"><img src="assets/badges/portfolio.svg" alt="Portfolio"></a>
 <a href="mailto:jayahir1419@gmail.com"><img src="assets/badges/email.svg" alt="Email"></a>
 <a href="https://leetcode.com/u/jayahir1419/"><img src="assets/badges/leetcode.svg" alt="LeetCode"></a>
@@ -94,6 +95,23 @@ Software engineer with **5 years** of building cloud-native, distributed systems
 <td width="50%"><a href="https://github.com/jay3490/rag-eval-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/rag-eval-harness-dark.svg"><img src="assets/cards/rag-eval-harness-light.svg" alt="rag-eval-harness" width="100%"></picture></a></td>
 </tr>
 </table>
+
+## 🌐 Live demos
+
+Every project below runs live. **[See them all →](https://apps.130-210-57-92.sslip.io/)**
+
+| Project | Try it | What to do |
+| --- | --- | --- |
+| [Document Intelligence (RAG)](https://github.com/jay3490/document-intelligence-rag) | [Open demo](https://docs.130-210-57-92.sslip.io/) | Upload documents, ask questions, get cited answers |
+| [E-commerce microservices](https://github.com/jay3490/ecommerce-microservices-k8s) | [Open demo](https://shop.130-210-57-92.sslip.io/) | Place an order and watch the RabbitMQ saga confirm it |
+| [Real-time chat (SignalR)](https://github.com/jay3490/realtime-chat-signalr) | [Open demo](https://chat.130-210-57-92.sslip.io/) | Open two windows and chat in real time |
+| [Real-time location tracking](https://github.com/jay3490/realtime-location-tracking) | [Open demo](https://tracking.130-210-57-92.sslip.io/) | Live map of devices streaming over gRPC |
+| [LLM gateway](https://github.com/jay3490/llm-gateway-dotnet) | [Open demo](https://llm-gateway.130-210-57-92.sslip.io/) | Chat through the gateway, see PII redaction |
+| [MCP server](https://github.com/jay3490/mcp-server-dotnet) | [Open demo](https://mcp.130-210-57-92.sslip.io/) | Call MCP tools from the browser |
+| [Semantic Kernel agent](https://github.com/jay3490/semantic-kernel-agent) | [Open demo](https://agent.130-210-57-92.sslip.io/) | Lint files and ask the DevOps agent |
+| [LangChain RAG service](https://github.com/jay3490/langchain-rag-service) | [Open demo](https://rag.130-210-57-92.sslip.io/) | Ask the knowledge base, see sources |
+| [LangGraph support agent](https://github.com/jay3490/langgraph-support-agent) | [Open demo](https://support.130-210-57-92.sslip.io/) | Multi-agent support with human approval |
+| [RAG evaluation report](https://github.com/jay3490/rag-eval-harness) | [Open demo](https://eval.130-210-57-92.sslip.io/) | Metrics from rag-eval-harness |
 
 ## 📊 GitHub stats
 
